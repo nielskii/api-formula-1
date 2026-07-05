@@ -7,6 +7,7 @@ Node.js, Fastify, TypeScript e @fastify/cors.
 
 ## 📦 Instalação
 git clone https://github.com/nielskii/api-formula-1
+
 cd f1-api  
 npm install  
 npm run dev  
